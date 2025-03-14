@@ -7,7 +7,9 @@ Neural style transfer is an technique that blends the content of one image with 
 Here is an image included in the document:
 
 
-![conent](https://github.com/haykdaghunts/neural_style_transfer_pytorch/blob/main/conent.jpg) ![style](https://github.com/haykdaghunts/neural_style_transfer_pytorch/blob/main/style_brownish.jpg)
+![content](https://github.com/haykdaghunts/neural_style_transfer_pytorch/blob/main/content_resized.jpg)
+
+![style](https://github.com/haykdaghunts/neural_style_transfer_pytorch/blob/main/style_pop_art.webp)
 
 ![output](https://github.com/haykdaghunts/neural_style_transfer_pytorch/blob/main/output_image.jpg)
 
